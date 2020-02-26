@@ -23,4 +23,5 @@ func main() {
 	fmt.Println(tom.Format(sf))
 
 	fmt.Println(time.Minute)
+        fmt.Println((time.Duration(10)*time.Second))
 }
